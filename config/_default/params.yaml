@@ -6,7 +6,10 @@ hugoblox:
     tagline: Doctoral Candidate | Fudan University
     description: |-
       Xu Wangzi
-      PhD student, College of Computer Science and Artificial Intelligence, Fudan University
+      PhD student in the College of Computer Science and Artificial Intelligence at Fudan University. Research interests: Computer Vision, Large Language Models, and AI4CAD.
+    organization: Fudan University
+    social:
+      twitter: xwng191362
   theme:
     mode: system
     pack: default
