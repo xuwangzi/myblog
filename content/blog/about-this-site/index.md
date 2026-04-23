@@ -8,8 +8,8 @@ tags:
   - Computer Vision
   - Large Language Models
   - AI4CAD
+status: published
 ---
-
 Welcome to my academic website.
 
 I am Xu Wangzi, a PhD student in the College of Computer Science and Artificial Intelligence at Fudan University, advised by Xiangdong Zhou. My research interests include Computer Vision, Large Language Models, and AI4CAD.
