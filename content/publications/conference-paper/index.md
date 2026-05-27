@@ -43,17 +43,8 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: ""
-
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: ""
   - type: source
     url: "https://openreview.net/profile?id=~Xu_Wangzi1"
 
